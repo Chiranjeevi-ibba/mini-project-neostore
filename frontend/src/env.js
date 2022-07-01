@@ -1,0 +1,1 @@
+export const MAIN_API="http://localhost:4455/api/v1/";
